@@ -17,7 +17,7 @@ class App extends React.Component {
 
   render() {
 
-    const arr = Array(10000).fill(1);
+    const arr = Array(100000).fill(1);
     return (
       <>
         <h1>Welcome to REACT</h1>
